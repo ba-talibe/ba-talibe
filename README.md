@@ -46,9 +46,9 @@
 
 <hr/>
 <div>
-    <img style="margin:2px" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=ba-talibe&show_icons=true&theme=transparent"/>
+    <img style="margin:2px" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ba-talibe&show_icons=true&theme=transparent"/>
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ba-talibe&layout=donut"/>
+<img style="margin:2px" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ba-talibe&layout=donut"/>
 </div>
 
 
