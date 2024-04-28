@@ -1,13 +1,13 @@
 <h1 align="center">🥷 Oumar Talibe Ba </h1>
 
-**`Data Science Student (AI enthousiast)`**
+**`Data Science Student (AI enthousiast)`** 
 
 ---
 
 
 <div align="center">
 
- 🏢 I'm currently R&D intern at [LITIS](https://www.litislab.fr/), working on Knowledge Graph and Ontology learning
+ 🏢 I'm currently R&D intern at [LITIS](https://www.litislab.fr/), working on Knowledge Graph and Ontology Learning
  
  🔭 I’m currently contributing to an Ontology  Learning Framework : [OLAF](https://github.com/wikit-ai/olaf)
  
