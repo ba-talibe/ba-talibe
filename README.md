@@ -16,7 +16,7 @@
 
 
 <div align="center"> 
-  <a href="mailto:omarba2015@gmail.com@gmail.com">
+  <a href="mailto:omarba2015@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/oumar-talibe-ba-68b430209/" target="_blank">
