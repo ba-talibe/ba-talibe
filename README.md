@@ -7,7 +7,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎯_Recherche_une_alternance-Data_%2F_IA_Engineer-2ea44f?style=for-the-badge" /><br/>
-  <sub>Dès septembre 2026 · 12 mois · rythme 2 semaines entreprise / 2 semaines université</sub>
+  <sub>Dès septembre 2026 · 12 mois · rythme 2 semaines entreprise / 2 semaines université</sub><br/><br/>
+  <img src="https://img.shields.io/badge/🎓_Recherche_un_stage_de_fin_d'études-Data_%2F_IA_Engineer-0969da?style=for-the-badge" /><br/>
+  <sub>6 mois · à partir de début avril 2027</sub>
 </p>
 
 <p align="center">
