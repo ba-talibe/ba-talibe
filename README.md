@@ -55,7 +55,8 @@
 
 | Projet | Description | Stack |
 |---|---|---|
-| [**olaf-mi**](https://github.com/ba-talibe/olaf-mi) | OLAF agentique : serveur **MCP** pour la construction d'ontologies et le raisonnement | Python · LLM · MCP |
+| [**olaf-mi**](https://github.com/ba-talibe/olaf-mi) | OLAF agentique (Ontology Learning Agentic Framework) : serveur **MCP** exposant des outils à un agent LLM pour construire des ontologies OWL/RDFS à partir de texte, de façon incrémentale | Python · MCP · Qdrant · Oxigraph · Docker |
+| [**olaf**](https://github.com/ba-talibe/olaf) | Framework modulaire d'apprentissage d'ontologies (Ontology Learning Applied Framework), du prétraitement du texte à l'extraction d'axiomes. — contribution open source pendant le stage au LITIS | Python · NLP · OWL/RDF |
 | **RAG sur documents académiques** | Q&A sur PDFs : chunking, indexation vectorielle, retrieval sémantique et génération contextualisée | LangChain · FAISS · Qwen3 |
 | [**GNOME**](https://github.com/ba-talibe/GNOME) | Distance d'édition entre graphes (Graph Edit Distance) par GNN, test d'isomorphisme Weisfeiler-Leman | PyTorch Geometric · NetworkX |
 | [**Eco-Counter-Normandashboard**](https://github.com/ba-talibe/Eco-Counter-Normandashboard) | Prévision des flux de pistes cyclables en Normandie + tableau de bord interactif | ARIMA / ARIMAX · Python |
@@ -92,7 +93,7 @@
   <img src="https://skillicons.dev/icons?i=aws" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
 </p>
 
